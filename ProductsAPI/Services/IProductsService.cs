@@ -11,6 +11,6 @@ namespace ProductsAPI.Services
 
         Product UpdateProduct(string id, Product productItem);
 
-        string DeleteProduct(string id);
+        string DeleteProduct(string id); 
     }
 }
